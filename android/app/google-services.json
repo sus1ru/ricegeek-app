@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "437697383232",
+    "project_id": "ricegeek-d7269",
+    "storage_bucket": "ricegeek-d7269.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437697383232:android:e099ea8c54e878cdff48a5",
+        "android_client_info": {
+          "package_name": "com.example.rice_geek"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "437697383232-5f17kil02dhltsneqbjhecln86d08dos.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-93j0o7GgMrVh8UrOep7CG2rDJlHkmGY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "437697383232-5f17kil02dhltsneqbjhecln86d08dos.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
